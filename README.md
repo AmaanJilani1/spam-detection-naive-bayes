@@ -151,8 +151,3 @@ Accuracy · Confusion Matrix · Classification Report
 [GitHub](https://github.com/AmaanJilani1) · [LinkedIn](https://www.linkedin.com/in/amaanjilani/)
 
 ---
-
-## 📝 Notes
-
-- Completed as part of **DS2001 – Introduction to Data Science**, Assignment #2, FAST-NUCES (Fall 2025)
-- Group project — algorithm implementation, mathematical explanation, and visual analysis
